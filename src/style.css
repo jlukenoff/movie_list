@@ -1,0 +1,12 @@
+.app {
+  border: 1px solid lightgrey;
+  box-shadow: 5px 2px 2px lightgrey;
+  text-align: center;
+  margin: 0 20%;
+}
+
+.list-body {
+  border: 1px solid lightgrey;
+  margin: 0 20% 10px 20%;
+}
+
