@@ -3,10 +3,23 @@
   box-shadow: 5px 2px 2px lightgrey;
   text-align: center;
   margin: 0 20%;
+  padding: 0;
 }
 
 .list-body {
   border: 1px solid lightgrey;
-  margin: 0 20% 10px 20%;
+    margin: 0 20% 0 20%;
+    padding: 0;
+    list-style: none;
+}
+
+.list-item {
+  margin: 0;
+  border: 1px solid lightgrey;
+  padding: 5%;
+}
+
+#search {
+  margin: 0 3px 10px 0;
 }
 
