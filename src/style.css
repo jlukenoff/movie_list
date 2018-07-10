@@ -7,10 +7,11 @@
 }
 
 .list-body {
-  border: 1px solid lightgrey;
-    margin: 0 20% 0 20%;
-    padding: 0;
-    list-style: none;
+  margin: 20px 20% 0 20%;
+  padding: 0;
+  padding-bottom: 20px;
+  list-style: none;
+  text-align: left;
 }
 
 .list-item {
@@ -18,8 +19,15 @@
   border: 1px solid lightgrey;
   padding: 5%;
 }
+.watch-toggle {
+  float: right;
+}
 
-#search {
+#watched-btns-container {
+  float: left;
+  margin-left: 20%;
+}
+input {
   margin: 0 3px 10px 0;
 }
 
